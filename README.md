@@ -1,4 +1,4 @@
-# profile_page_ui
+# Profile Page UI
 
 A new Flutter project.
 
